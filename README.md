@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🤔 我在研究如何提效
+
+
 <!--
 **daqi/daqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
